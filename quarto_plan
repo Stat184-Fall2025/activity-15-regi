@@ -1,0 +1,7 @@
+Goals: To create a qmd file to showcase my code for data wrangling
+and the visualization creations from chosen assignments. My goal is to 
+fix and polish the code from the armed forces, baby names, and box problem 
+assignments, and create new visualizations when necessary. Once finished, I 
+will need to implement this in a quarto document, with an appropriate YAML
+header, section headers, narrative texts for my code, as well as a code appendix.
+The document should be rendered into a pdf.
