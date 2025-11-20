@@ -5,3 +5,15 @@ assignments, and create new visualizations when necessary. Once finished, I
 will need to implement this in a quarto document, with an appropriate YAML
 header, section headers, narrative texts for my code, as well as a code appendix.
 The document should be rendered into a pdf.
+
+Needs: 
+Armed Forces Data Wrangling code
+Frequency table for armed forces
+Baby names data wrangling code
+Time series visualization for baby names
+Box problem function
+Plot using stat_function
+Narrative texts
+YAML header
+Section headers
+Code Appendix
