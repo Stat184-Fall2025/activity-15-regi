@@ -17,3 +17,25 @@ Narrative texts
 YAML header
 Section headers
 Code Appendix
+
+Steps
+1. Create YAML header
+
+Armed Forces Data
+1. Fix code from question 5 activity 8
+2. Create frequency table from sex and rank
+3. Create narrative text describing what we can learn
+
+Baby Names
+1. Fix baby names code
+2. Create time series plot
+3. Create narrative text
+
+Box Problem
+1. Fix volume function
+2. Create ggplot plot using stat_function
+3. Create narrative text
+
+Other
+1. Section about what I learned in the course
+2. Create code appendix
