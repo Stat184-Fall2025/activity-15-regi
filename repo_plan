@@ -13,3 +13,12 @@ README file
 Plan for repo and quarto assignment
 PDF for activity 14
 QMD file for activity 14
+
+Steps:
+1. Create repository
+2. Create dev branch
+3. Add PDF and QMD file to dev branch
+4. Create plans as text files
+5. Create README file
+6. Create two issue tags and solve them
+7. Pull request dev branch into main
