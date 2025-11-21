@@ -31,6 +31,9 @@ The frequency table (@tbl-armed_forces_freq) analyzes US Armed Forces personnel 
 #| lst-cap: "Tidying the Armed Forces Data"
 #| eval: true
 
+# CODING STYLE
+# I used the Tidyverse Style throughout my code chunks
+
 # -----------------------------------------------
 # Armed Forces Data Wrangling
 # This code processes armed forces data from two sources and creates two tidied data frames
